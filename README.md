@@ -8,7 +8,7 @@
 
 ---
 
-A classic Sokoban puzzle game for Android – push boxes onto targets in the fewest moves possible.
+Classic Sokoban puzzle game for Android – push boxes onto targets in the fewest moves possible.
 
 Developed by a self‑taught developer from Ghana as a passion project, using only his Android smartphone in deep partnership with AI.
 
@@ -16,7 +16,7 @@ Developed by a self‑taught developer from Ghana as a passion project, using on
 
 ## Features
 
-- **50+ levels** (standard Sokoban format, `.sbl`)
+- **90 levels** (standard Sokoban format, `.sbl`)
 - **Simple touch & D‑pad controls**
 - **Undo** – revert any move
 - **Timer & move counter** – track your performance
