@@ -14,6 +14,10 @@
 # - release.txt format: KEYSTORE_PASSWORD=xxx\nKEY_ALIAS=xxx\nKEY_PASSWORD=xxx
 #
 # Debug builds use Android debug keystore.
+#
+# @author Richard Korbla Adzido
+# @version 1.0.0
+# @since 1.0
 # ============================================================================
 
 name: Build Sokoban APK
