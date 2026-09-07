@@ -35,7 +35,6 @@ Developed by a self‑taught developer from Ghana as a passion project, using on
 - **Build Tools**: AGP 8.1.0, Gradle 8.0, JDK 17
 - **Architecture**: MVVM (ViewModel + LiveData)
 - **Persistence**: SharedPreferences with Gson serialisation
-- **Icons**: FontAwesome 6 (Free Solid)
 
 ---
 
