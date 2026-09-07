@@ -23,7 +23,6 @@ Developed by a self‑taught developer from Ghana as a passion project, using on
 - **Auto‑save** – progress is saved automatically
 - **Reset level** or **reset entire game** with a single tap
 - **Pause** – freeze the timer anytime
-- **Rich visual feedback** – FontAwesome icons for walls, targets, boxes, and player
 - **Completion overlay** – congratulatory animation when a level is finished
 - **Progress tracking** – each completed level is marked with a star
 
