@@ -16,7 +16,7 @@
 # Debug builds use Android debug keystore.
 #
 # @author Richard Korbla Adzido
-# @version 1.0.0
+# @version 1.0.1
 # @since 1.0
 # ============================================================================
 
@@ -320,6 +320,8 @@ jobs:
     # ========================================================================
     - name: Set up Android SDK
       uses: android-actions/setup-android@v4
+      with:
+        packages: 'platform-tools'
 
     # ========================================================================
     # Grant execute permission for gradlew
